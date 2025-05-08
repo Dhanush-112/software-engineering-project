@@ -21,14 +21,19 @@ Open a terminal and type:
 python3 --version
 
 Clone the Repository:
-git clone https://github.com/Dhanush-112/carbon-emission-calculator.git
+git clone https://github.com/Dhanush-112/software-engineering-project.git
 
 Navigate to the Project Folder:
-cd carbon-emission-calculator
+cd software-engineering-project
 
 Install Dependencies:
 pip install -r requirements.txt
 
 Run the Application:
 python3 app.py
+
+You’ll see output like this:
+* Running on http://127.0.0.1:5000
+
+Copy the URL and past it any browser, the carbon emission calculator will load.
 
